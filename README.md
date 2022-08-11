@@ -1,9 +1,12 @@
-# Hello there. 👋
+# Hello there, I'm Andrej Stojkovikj! 👋
 
-Hi! **I'm Andrej**.
+I'm a Tech and Guitar enthusiast. Currently working on becoming a fullstack developer.
  
-- 👯 I’m looking to collaborate on a real project.
-- 📫 How to reach me: Discord - andrej#5838
+👯 I’m looking to collaborate on a real project.
+
+### How to reach me:
+[![Discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev) andrej#5838  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) Andrej Stojkovic  
 
 ## I am skilled in:
 [![My Skills 1](https://skillicons.dev/icons?i=c,cpp,cs,python,arduino)](https://skillicons.dev)  
@@ -14,4 +17,3 @@ Hi! **I'm Andrej**.
 
 ## Some GitHub Stats.
 ![Andrej's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrejStojkovic&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
