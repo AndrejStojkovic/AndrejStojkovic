@@ -2,7 +2,7 @@
 
 I'm a Tech and Guitar enthusiast. Currently working on becoming a fullstack developer.
  
-👯 I’m looking to collaborate on a real project.
+👯 I’m looking to collaborate on a real and advanced project.
 
 ### How to reach me:
 | Platform | User |
