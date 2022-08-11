@@ -10,7 +10,7 @@ Hi! **I'm Andrej**.
 [![My Skills 2](https://skillicons.dev/icons?i=html,css,js,ts,react,firebase,materialui,nodejs,mongodb)](https://skillicons.dev)
 
 ## Tools I use:
-[![My Tools](https://skillicons.dev/icons?i=vscode,vs,ps,ai,pr,arduino)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=vscode,visualstudio,ps,ai,pr,arduino)](https://skillicons.dev)
 
 ## Some GitHub Stats.
 ![Andrej's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrejStojkovic&show_icons=true&theme=radical)
