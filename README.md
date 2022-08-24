@@ -12,7 +12,7 @@ I'm a Tech and Guitar enthusiast. Currently working on becoming a fullstack deve
 
 ## I am skilled in:
 [![My Skills 1](https://skillicons.dev/icons?i=c,cpp,cs,python,arduino)](https://skillicons.dev)  
-[![My Skills 2](https://skillicons.dev/icons?i=html,css,js,ts,react,firebase,materialui,nodejs,mongodb)](https://skillicons.dev)
+[![My Skills 2](https://skillicons.dev/icons?i=html,css,js,ts,react,firebase,materialui,tailwindcss,nodejs,mongodb)](https://skillicons.dev)
 
 ## Tools I use:
 [![My Tools](https://skillicons.dev/icons?i=github,vscode,visualstudio,ps,ai,pr,arduino)](https://skillicons.dev)
