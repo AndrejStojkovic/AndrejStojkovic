@@ -1,8 +1,7 @@
 # Hello there, I'm Andrej Stojkovikj! 👋
 
-I'm a Tech and Guitar enthusiast. Currently working on becoming a fullstack developer.
- 
-👯 I’m looking to collaborate on a real and advanced project.
+I'm a tect and video game enthusiast.
+Currently working as Game Developer and also developing some personal projects that will be uploaded here.
 
 ### How to reach me:
 | Platform | User |
