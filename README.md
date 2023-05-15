@@ -15,6 +15,3 @@ Currently working as Game Developer and also developing some personal projects t
 
 ## Tools I use:
 [![My Tools](https://skillicons.dev/icons?i=github,vscode,visualstudio,ps,ai,pr,arduino,unity)](https://skillicons.dev)
-
-## Some GitHub Stats.
-![Andrej's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrejStojkovic&show_icons=true&theme=radical)
